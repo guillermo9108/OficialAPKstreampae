@@ -1,0 +1,3 @@
+git add android/
+git commit -m "Add native Android folder"
+git push
